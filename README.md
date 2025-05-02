@@ -1,4 +1,4 @@
-![nukerpainel](https://github.com/user-attachments/assets/5827322f-fecb-4b31-9fa4-c42aa43a800c)
+![foto painel](https://github.com/user-attachments/assets/f16be751-4988-43d9-b54c-c9465de02b08)
 # painel-nuker-discord
 Bot de nuker em painel, discord.
 
